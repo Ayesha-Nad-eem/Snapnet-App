@@ -15,7 +15,11 @@
       "android": {
         "buildType": "apk"
       },
-      "autoIncrement": true
+      "autoIncrement": true,
+      "env": {
+        "EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY": "pk_live_Y2xlcmsuc25hcG5ldC1hcHAtcHJvZHVjdGlvbi5jb20k",
+        "EXPO_PUBLIC_CONVEX_URL": "https://impressive-herring-459.convex.cloud"
+      }
     }
   },
   "submit": {
